@@ -2,11 +2,23 @@
   "folders": [
     {
       "name": "project-root",
-      "path": "./"
+      "path": "."
+    },
+    {
+      "name": "sql",
+      "path": "../Downloads/trello-clone-react-native-main/trello-clone-react-native-main/sql"
+    },
+    {
+      "name": "screenshots",
+      "path": "../Downloads/trello-clone-react-native-main/trello-clone-react-native-main/screenshots"
     },
     {
       "name": "supabase-functions",
       "path": "supabase/functions"
+    },
+    {
+      "name": "push",
+      "path": "../Downloads/trello-clone-react-native-main/trello-clone-react-native-main/supabase/functions/push"
     }
   ],
   "settings": {
